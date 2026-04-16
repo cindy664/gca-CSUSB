@@ -1,4 +1,124 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "California State University, San Bernardino",
+    "abbreviation": "CSUSB",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": null,
+    "cobranded_logo": null,
+    "partner_id": "001Rd00000fQFFAIA4",
+    "programName": "CSUSB Global Career Accelerator",
+    "termsandConditionsPolicy": null,
+    "registrationMessage": "Registration is now open.",
+    "credits": null,
+    "startDate": null,
+    "endDate": null
+  },
+  {
+    "item": "about",
+    "schoolname": "California State University, San Bernardino",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": null,
+    "abbreviation": "CSUSB",
+    "phone": null,
+    "credits": null,
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "California State University, San Bernardino",
+    "trackTitle": "Digital Marketing Track",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "California State University, San Bernardino",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "California State University, San Bernardino",
+    "trackTitle": "Data Analytics Track",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "California State University, San Bernardino",
+    "trackTitle": "Coding for Data Track",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "California State University, San Bernardino",
+    "trackTitle": "Career Rotation Track",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": null,
+    "term1EndDate": null,
+    "term2StartDate": null,
+    "term2EndDate": null
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "CSUSB Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": null,
+    "abbreviation": "CSUSB"
+  },
+  {
+    "item": "begin",
+    "credits": null,
+    "abbreviation": "CSUSB",
+    "phone": null
+  }
+]
